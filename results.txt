@@ -1,0 +1,2 @@
+Language	Python	C
+Times(Seconds)	256	3
